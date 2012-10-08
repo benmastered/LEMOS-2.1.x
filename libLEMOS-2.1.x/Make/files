@@ -1,0 +1,6 @@
+boundaryConditions/inflowGenerator/decayingVorton.C
+boundaryConditions/inflowGenerator/decayingTurbulenceFvPatchVectorField.C
+boundaryConditions/inflowGenerator/decayingTurbulenceFvPatchVectorFieldFwd.C
+
+
+LIB = $(FOAM_LIBBIN)/libLEMOS-2.1.x
